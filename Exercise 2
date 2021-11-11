@@ -1,0 +1,22 @@
+package selfProgramming;
+
+public class Noteslide24 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		if (amount <= balance)
+		{
+			balance = balance - amount;  
+			System.out.println(“Acct new balance = ” + balance);
+		}
+		
+		else
+		{
+		      balance = balance - OVERDRAFT_PENALTY;
+			    System.out.println(“TRANSACTION NOT ALLOWED”);
+		} 
+
+
+	}
+
+}
