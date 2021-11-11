@@ -1,0 +1,21 @@
+package selfProgramming;
+
+public class Result {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		if ((mark >= 90) && (mark <=100))
+			grade = ‘A’;
+if ((mark >= 80) && (mark >= 89))
+			grade = ‘B’;
+if ((mark >= 70) && (mark >= 79))
+			grade = ‘C’;
+if ((mark >= 60) && (mark >= 69))
+			grade = ‘D’;
+if ((mark >= 0) && (mark >= 59))
+			grade = ‘F’;
+
+
+	}
+
+}
