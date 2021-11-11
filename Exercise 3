@@ -1,0 +1,19 @@
+package selfProgramming;
+
+public class Noteslide25 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		if  ((age >= 25) && (age <= 50))
+		{
+			System.out.println(“You are qualified to apply”);
+		}
+		else 
+		{
+		     System.out.println(“You are NOT qualified to apply”); 
+		}
+
+
+	}
+
+}
