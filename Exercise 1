@@ -1,0 +1,15 @@
+package selfProgramming;
+
+public class Noteslide12 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double y=15.0;
+		double x=25.0;
+		if (y!=x) // "if" statement
+	     System.out.println("Result : y not equal x");
+
+
+	}
+
+}
